@@ -18,4 +18,6 @@ Al finalizar, el sistema evalúa una operación aritmética para determinar el e
 
 ---
 ### Referencias utilizadas
-1.-
+1.-Menichelli, E. (n.d.). MIPS directives. ASM Editor. Retrieved November 20, 2026, from https://asm-editor.specy.app/documentation/mips/directive
+
+2.-School of Computer Science and Engineering, University of New South Wales. (n.d.). MIPS instruction set. COMP1521 26T2: Computer Systems Fundamentals. Retrieved November 20, 2026, from https://cgi.cse.unsw.edu.au/~cs1521/26T2/resources/mips-guide.html
